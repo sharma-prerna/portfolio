@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>  on Home</title>
+    <link>https://sharma-prerna.github.io/portfolio/</link>
+    <description>Recent content in   on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://sharma-prerna.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://sharma-prerna.github.io/portfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sharma-prerna.github.io/portfolio/about/</guid>
+      <description>Hi! 👋 I&amp;rsquo;m a machine learning enthusiast with experience in Computer Vision, NLP, and various machine learning libraries and frameworks. I earned a Master&amp;rsquo;s in Computer Applications from Jawaharlal Nehru University. During my 2-year stint at CDAC, I worked on projects such as the Hospital Management System for AIIMS hospitals.
+Apart from my professional work, I actively engage in research. Recently, I had the opportunity to collaborate with the respected Mr.</description>
+    </item>
+    
+    <item>
+      <title>Project I: Parking Space Detection</title>
+      <link>https://sharma-prerna.github.io/portfolio/post/chapter-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sharma-prerna.github.io/portfolio/post/chapter-1/</guid>
+      <description>The project aimed to address the challenge of efficiently monitoring parking space availability near a crane used for container unloading. The existing manual system led to inefficiencies and congestion. The goal was to design an automated solution that accurately detects trucks and cranes, predicts available parking spaces near the crane, and notifies trucks when spaces become available.
+Dataset Extraction &amp;amp; Creation: The dataset for training the parking space monitoring system was created by extracting frames from 15 diverse videos, resulting in 1176 frames.</description>
+    </item>
+    
+    <item>
+      <title>Project II: Facial Expression Recognition</title>
+      <link>https://sharma-prerna.github.io/portfolio/post/chapter-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sharma-prerna.github.io/portfolio/post/chapter-2/</guid>
+      <description>The project aimed to develop an accurate model for accurately classifying images into emotion categories. This report outlines the approach taken, the dataset used, the methodology employed, and the results obtained.
+Dataset: The dataset used for this project consisted of images categorized into multiple classes. Upon analysis, it was observed that the dataset was imbalanced, with some classes having significantly fewer samples than others. To address this issue, data augmentation techniques were applied to generate additional images for the underrepresented classes.</description>
+    </item>
+    
+    <item>
+      <title>Project III: Image Captioning Generator</title>
+      <link>https://sharma-prerna.github.io/portfolio/post/chapter-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sharma-prerna.github.io/portfolio/post/chapter-3/</guid>
+      <description>The Image Captioning Generator is a project I worked on that involves the development of a neural network model capable of generating captions for input images. This project was particularly interesting to me because it required a combination of two different problems: language modeling and image classification.
+To tackle this challenge, I used two different neural network architectures: a Convolutional Neural Network (CNN) and a Long Short-Term Memory (LSTM) network. The CNN was used for image classification, while the LSTM was used for language modeling.</description>
+    </item>
+    
+    <item>
+      <title>Project IV: Galaxy Classification</title>
+      <link>https://sharma-prerna.github.io/portfolio/post/chapter-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sharma-prerna.github.io/portfolio/post/chapter-4/</guid>
+      <description>In astronomy, the study of galaxies is an important field that helps us understand the evolution of the universe. Classifying galaxies into different types, such as elliptical, spiral, and irregular, is a key task in this field. However, manually classifying galaxies is a time-consuming and challenging task, which is why machine learning models have been developed to automate the process.
+This project involves developing a machine learning model that accurately classifies galaxies into different types.</description>
+    </item>
+    
+    <item>
+      <title>Project V: Django Web App</title>
+      <link>https://sharma-prerna.github.io/portfolio/post/chapter-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sharma-prerna.github.io/portfolio/post/chapter-5/</guid>
+      <description>The interactive machine learning application mentioned in this project is designed to offer researchers and data scientists an easy-to-use tool that streamlines the workflow for creating and testing ML models. The user-friendly interface of the application allows users to perform tasks such as training and testing of models with just a few clicks. The application has been designed with flexibility in mind, allowing users to upload their own preprocessed datasets or use the internal dataset provided.</description>
+    </item>
+    
+  </channel>
+</rss>

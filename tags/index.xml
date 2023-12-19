@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Home</title>
+    <link>https://sharma-prerna.github.io/portfolio/tags/</link>
+    <description>Recent content in Tags on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://sharma-prerna.github.io/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>https://github.com/sharma-prerna/Facial-Expression-Recognition</title>
+      <link>https://sharma-prerna.github.io/portfolio/tags/https/github.com/sharma-prerna/facial-expression-recognition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sharma-prerna.github.io/portfolio/tags/https/github.com/sharma-prerna/facial-expression-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>https://github.com/sharma-prerna/Galaxy-Classification</title>
+      <link>https://sharma-prerna.github.io/portfolio/tags/https/github.com/sharma-prerna/galaxy-classification/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sharma-prerna.github.io/portfolio/tags/https/github.com/sharma-prerna/galaxy-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>https://github.com/sharma-prerna/Image-Captioning-Generator</title>
+      <link>https://sharma-prerna.github.io/portfolio/tags/https/github.com/sharma-prerna/image-captioning-generator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sharma-prerna.github.io/portfolio/tags/https/github.com/sharma-prerna/image-captioning-generator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>https://github.com/sharma-prerna/Machino</title>
+      <link>https://sharma-prerna.github.io/portfolio/tags/https/github.com/sharma-prerna/machino/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sharma-prerna.github.io/portfolio/tags/https/github.com/sharma-prerna/machino/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

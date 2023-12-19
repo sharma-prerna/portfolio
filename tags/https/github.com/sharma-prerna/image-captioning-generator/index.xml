@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>https://github.com/sharma-prerna/Image-Captioning-Generator on Home</title>
+    <link>https://sharma-prerna.github.io/portfolio/tags/https/github.com/sharma-prerna/image-captioning-generator/</link>
+    <description>Recent content in https://github.com/sharma-prerna/Image-Captioning-Generator on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://sharma-prerna.github.io/portfolio/tags/https/github.com/sharma-prerna/image-captioning-generator/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project III: Image Captioning Generator</title>
+      <link>https://sharma-prerna.github.io/portfolio/post/chapter-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sharma-prerna.github.io/portfolio/post/chapter-3/</guid>
+      <description>The Image Captioning Generator is a project I worked on that involves the development of a neural network model capable of generating captions for input images. This project was particularly interesting to me because it required a combination of two different problems: language modeling and image classification.
+To tackle this challenge, I used two different neural network architectures: a Convolutional Neural Network (CNN) and a Long Short-Term Memory (LSTM) network. The CNN was used for image classification, while the LSTM was used for language modeling.</description>
+    </item>
+    
+  </channel>
+</rss>
